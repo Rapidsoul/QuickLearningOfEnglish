@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/images/check.ico</file>
+        <file>res/images/next.png</file>
+        <file>res/images/foreign.jpg</file>
+        <file>res/db/dictionary.mwb</file>
+        <file>res/images/actually.gif</file>
+        <file>res/images/conversion.jpg</file>
+        <file>res/images/dependency.jpg</file>
+        <file>res/images/kit.jpg</file>
+        <file>res/images/thought.png</file>
+        <file>res/images/binding.jpeg</file>
+        <file>res/images/bundle.jpg</file>
+        <file>res/images/enjoy.jpg</file>
+        <file>res/images/extension.jpg</file>
+        <file>res/images/factory.jpg</file>
+        <file>res/images/further.jpg</file>
+        <file>res/images/handy.png</file>
+        <file>res/images/heap.jpg</file>
+        <file>res/images/improve.jpg</file>
+        <file>res/images/inheritance.jpg</file>
+        <file>res/images/inner.jpg</file>
+        <file>res/images/mutable.jpg</file>
+        <file>res/images/nested.png</file>
+        <file>res/images/across.jpg</file>
+        <file>res/images/allocation.jpg</file>
+        <file>res/images/behavior.jpg</file>
+        <file>res/images/deploy.png</file>
+        <file>res/images/extensive.jpg</file>
+        <file>res/images/forbidden.png</file>
+        <file>res/images/instead.jpg</file>
+        <file>res/images/outlined.png</file>
+        <file>res/images/overload.jpg</file>
+        <file>res/images/pattern.png</file>
+        <file>res/images/provide.jpg</file>
+        <file>res/images/reject.jpg</file>
+        <file>res/images/required.jpg</file>
+        <file>res/images/solely.jpg</file>
+        <file>res/images/tip.jpg</file>
+    </qresource>
+</RCC>
